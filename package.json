@@ -1,5 +1,5 @@
 {
-  "name": "zenith-api",
+  "name": "aegis",
   "module": "src/index.ts",
   "type": "module",
   "private": true,
